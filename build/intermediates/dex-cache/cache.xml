@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="adebe28e0c0c05d34a3bfd76f3275bf4d8ff87b6">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-0e270fc97f346d94321ce48ffe122b19ffe10d81.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2491ae1b2a848af1f4f0c795f3117c1bd6a1989f">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-f5309299202301cc697df0f5135ae82f4eb29e69.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="edea92852b40eee716e910af8dad9eeaa58fb0e1">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-3498759e94c08d1feb4857340f59a2e019d26efd.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="e23ea11124bb700eeddd4ab7aa848c615f493850">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-8709c4a543c4f04aa2af8617f4be39fe9d2db435.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1ff30fa49c07a08c3035d7218a3efebf5680d522">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-35fcaf3b282af65549c4f7b5a850d3475ab730fb.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="130b32ed466fa0f63efd4c7d6250ccd2ed506790">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-829e4bc3ed6642116884fc0ed3cd5c22210131f1.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0124ce31248c0e8acfa2b28283c6d1a4d76e73d2">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-c2246db27c1d5f70c6329aaff31423faadd106b7.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-f21e022c7086bc67a1297c5a51b766e0bfa29732.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d11330ea68c0d964d30d5caed1f27e6b1488b189">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-9ebbf318037b7aee87c9af4eeab10033233db566.jar" />
+    </item>
+    <item
+        jar="C:\Users\Zack Wang\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-51ff2043012d7f5bd8f70ddb3dd9c59162402ebc.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="166e458ee3b5fb5fcff0f936df3f3a788e6c54f3">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-86c52d531401803b63ab142c61e4d2dcd9625d02.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="98137c4d12c50923f5809852b1ef4d1c4e162081">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-41b4d11a3b7733cc192fc621161e10a257a97d37.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4a135d56554069e5d0ff80e3220e887e57146ee5">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-883cf4cfd4e9d73328b6d88fb3f8220260f0a4fb.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c2ac04c5b232f6f0658ee4f1c13be09cd76406e2">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-e606e3bb3e8a5553aef43a5d4977ae5cac61b282.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-324d58fe93dbbfb5cd2b9fb2d0a549a96ca3cd53.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c756d14e99d39471e99013a1e8fd2f3813ed42bf">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-fdc429d7b4ff595d98b301be9c6ab7eb62741aef.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="b99f0b78bbcb76b915bc6529a83b65d4d46990dd">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-18848fcd2417c93a329186d2a072f3eada633ff2.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-10831e991a996a514c70ccbcb113c695c06b547d.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c5cafb324568d954780abb858c25db7ce675ab3c">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-2f9a31acd485602b2d26e7050b5731f31bb0a3ce.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="77a9dcb5f8b1dba36aacaa9c150eb0942dbea158">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-3d563ade1f2ceee59007a2cfc7331fdaa1dfd52a.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="2e24e5f1b11170163028277de63f709e42525db4">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-05e601b97f42e0b3440ce50b33c2a54c4696f9f9.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-eb9b218c8e2dbac4bcb8093a27087a512400d9a6.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-54af18dcb54cec2bb6612359382b8a9580c693be.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6e85edfc9b5346d216e50ccef1f8e825504144a3">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-a570f4ee3ac4fd7124c8b3f3c8e318f3993b06ee.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-d672ec5765fa07ddeeed9af769185d525ed8cce2.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.8.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="42a1ee578b62fd1bd28b3307a679dc9ba0791587">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-092b7c9afa846da03cc37eef946daea457a02f96.jar" />
+    </item>
+    <item
+        jar="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="D:\ZackWang1218-research_project_client-c53068cd02a5\ZackWang1218-research_project_client-c53068cd02a5\app\build\intermediates\pre-dexed\debug\classes-67a3a42ec1bd660acda2bbdf67813c67c01e9746.jar" />
+    </item>
+
+</items>

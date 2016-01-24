@@ -1,0 +1,197 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.zackwang.testapp.activities.AvailableActivity">
+
+    <TableRow
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentLeft="true"
+        android:layout_marginLeft="0dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:id="@+id/tableRow">
+
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="8dp"
+            android:id="@+id/editText"
+            android:background="#7ff5b9"
+            android:layout_gravity="top|center_vertical"
+            android:layout_column="0" />
+
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="8dp"
+            android:id="@+id/editText2"
+            android:background="#4ac1bd"
+            android:layout_gravity="top|center_vertical"
+            android:layout_column="1" />
+
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="8dp"
+            android:id="@+id/editText3"
+            android:background="#f63c54"
+            android:layout_gravity="top|center_vertical"
+            android:layout_column="2" />
+
+        <EditText
+            android:layout_width="96dp"
+            android:layout_height="8dp"
+            android:id="@+id/editText4"
+            android:background="#feb848"
+            android:layout_gravity="top|center_vertical"
+            android:layout_column="3" />
+
+    </TableRow>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/bookIcon"
+        android:layout_marginTop="78dp"
+        android:src="@mipmap/lg_book"
+        android:layout_marginLeft="90dp"
+        android:layout_marginStart="80dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="bookr"
+        android:id="@+id/logoText"
+        android:layout_toRightOf="@+id/bookIcon"
+        android:fontFamily="courier"
+        android:textSize="50dp"
+        android:layout_alignTop="@+id/bookIcon"
+        android:layout_above="@+id/loginLine" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="___________________________"
+        android:id="@+id/loginLine"
+        android:layout_marginTop="70dp"
+        android:focusableInTouchMode="false"
+        android:fontFamily="aril"
+        android:textColor="#756f7c"
+        android:layout_below="@+id/bookIcon"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:src="@mipmap/nv_menu"
+        android:layout_below="@+id/tableRow"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:clickable="true" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView3"
+        android:onClick="available_DirectBack"
+        android:layout_below="@+id/tableRow"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@mipmap/nv_back"
+        android:clickable="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="________________________________________________________"
+        android:id="@+id/tp_line"
+        android:focusableInTouchMode="false"
+        android:fontFamily="aril"
+        android:textColor="#756f7c"
+        android:layout_alignBottom="@+id/imageView4"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="________________________________________________________"
+        android:id="@+id/tp_line2"
+        android:focusableInTouchMode="false"
+        android:fontFamily="aril"
+        android:textColor="#756f7c"
+        android:layout_alignBottom="@+id/loginLine"
+        android:layout_toEndOf="@+id/bookIcon"
+        android:layout_alignLeft="@+id/tp_line"
+        android:layout_alignStart="@+id/tp_line" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Available Time"
+        android:id="@+id/qt_title1"
+        android:textColor="#756f7c"
+        android:singleLine="false"
+        android:textSize="20dp"
+        android:layout_alignBottom="@+id/tp_line2"
+        android:layout_alignLeft="@+id/tp_line2"
+        android:layout_alignStart="@+id/tp_line2"
+        android:layout_marginBottom="15dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="35dp"
+        android:text="Cancel"
+        android:id="@+id/tp_cancelBtn"
+        android:onClick="available_DirectBack"
+        android:background="#ee5f45"
+        android:fontFamily="Arial"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/tp_line3"
+        android:layout_alignStart="@+id/tp_line3"
+        android:layout_marginBottom="15dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="________________________________________________________"
+        android:id="@+id/tp_line3"
+        android:focusableInTouchMode="false"
+        android:fontFamily="aril"
+        android:textColor="#756f7c"
+        android:layout_alignTop="@+id/tp_cancelBtn"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="-25dp" />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="35dp"
+        android:text="Confirm"
+        android:id="@+id/availa_confirmBtn"
+        android:onClick="available_confirmBooking"
+        android:background="#34cf95"
+        android:fontFamily="Arial"
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:layout_alignTop="@+id/tp_cancelBtn"
+        android:layout_alignRight="@+id/tp_line3"
+        android:layout_alignEnd="@+id/tp_line3"
+        android:layout_marginBottom="5dp" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/sectionListView"
+        android:layout_toLeftOf="@+id/imageView4"
+        android:layout_toEndOf="@+id/imageView3"
+        android:layout_below="@+id/loginLine"
+        android:layout_alignLeft="@+id/bookIcon"
+        android:layout_alignStart="@+id/bookIcon"
+        android:layout_marginTop="10dp"
+        android:layout_alignBottom="@+id/tp_line3" />
+
+</RelativeLayout>
